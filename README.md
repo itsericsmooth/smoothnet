@@ -10,14 +10,14 @@ eric smooth website
 		<h1>eric smooth</h1>
 		<p>this is the website for the artist eric smooth </p>
 		<br>
-		<img src="pics/deer.jpg" class = "deer" width = "500" height = "500">
+		<img src="deer.jpg.JPG" class = "deer" width = "500" height = "500">
 		<br>
 		<br>
 		<hr>
 		<br>
 		<p>listen to eric smooth on spotify</p>
 			<a href = "https://open.spotify.com/album/0kNOYI7J4ZOlw1Pk8i9YTe?si=Ld57uxgPTgGw4UGYRDy0EA">
-			<img src="pics/spotify.png" width = "200">
+			<img src="spotify.png.PNG" width = "200">
 			</a>
 	</body>
 </html>
